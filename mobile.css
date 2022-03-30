@@ -1,0 +1,107 @@
+@media only screen and (max-width: 1000px) {
+    .first {
+        text-align: center;
+    }
+
+    .foot_first {
+        margin-top: 0px;
+    }
+
+    .first1 {
+        margin-top: 32px;
+    }
+
+    .head1 {
+        font-size: 30px;
+    }
+
+    .head {
+        font-size: 40px;
+    }
+
+    .head2 {
+        font-size: 40px;
+    }
+
+    .play {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 80%;
+        height: 70px;
+        display: none;
+    }
+
+    .play2 {
+        font-size: 20px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        width: 65%;
+        height: 60px;
+    }
+
+    .ludo {
+        height: 400px;
+    }
+
+    .imgsec2 {
+        height: 350px;
+    }
+
+    .secondm {
+        margin-top: 5px;
+    }
+
+    .about {
+        font-size: 15px;
+    }
+
+    .foot_text {
+        font-size: 13px;
+    }
+
+    .icon {
+        border-radius: 70%;
+        width: 90px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .mob {
+        display: block;
+    }
+
+    .deks {
+        display: none;
+    }
+
+
+    .last {
+        padding-top: 4px;
+    }
+
+    .first {
+        margin-top: 0;
+    }
+
+    .mobilefoot {
+        text-align: center;
+        color: white;
+        background-color: #1F1B90;
+    }
+
+    .tagfoot {
+        margin-top: 10px;
+    }
+
+    .footer {
+        margin-bottom: 110px;
+    }
+
+    #blink {
+        transition: 0.5s;
+        ;
+    }
+}
